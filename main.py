@@ -1,5 +1,5 @@
-from calculator import add, subtract, multiply
-from utils import greet_user
+from Basic operations import add, subtract, multiply
+from Greetingss import greet_user
 
 print(greet_user("Alice"))
 print("Addition:", add(10, 5))
